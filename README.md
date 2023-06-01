@@ -1,4 +1,4 @@
 # DarkMode
 
 
-[Visite o projeto](http://lucasfelipe97silvaa.github.io/darkmode)
+[Visite o projeto](http://lucasfelipe97silvaa.github.io/DarkMode)
